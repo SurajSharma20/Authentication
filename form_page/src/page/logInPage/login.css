@@ -1,0 +1,21 @@
+.login_containers{
+    /* border: 1px solid blue; */
+    height: 300px;
+    width: 330px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px, rgb(209, 213, 219) 0px 0px 0px 1px inset;
+}
+
+.logInInputField{
+    width: 99%;
+}
+
+.btnLogin{
+    margin-top: 20px;
+}
+
+.logInHeading{
+    margin-bottom: 30px;
+}
